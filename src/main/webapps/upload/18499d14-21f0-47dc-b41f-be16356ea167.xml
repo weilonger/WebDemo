@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookmarks>
+   <site url="http://download.eclipse.org/technology/babel/update-site/R0.16.0/oxygen/" selected="true" name="Babel Language Pack Metadata Repository"/>
+   <site url="http://eclipse-cs.sf.net/update/" selected="true" name="Checkstytle"/>
+   <site url="http://download.eclipse.org/egit/updates" selected="true" name="EGit P2 Repository"/>
+   <site url="http://findbugs.cs.umd.edu/eclipse" selected="false" name="file:/home/pugh/findbugs-git/eclipsePlugin/bin_build/site/eclipse/ - metadata"/>
+   <site url="http://download.eclipse.org/technology/babel/babel_language_packs/R0.16.0/oxygen" selected="true" name="Language"/>
+   <site url="http://download.eclipse.org/technology/babel/babel_language_packs/R0.16.0/oxygen/oxygen.php" selected="true" name="Language"/>
+   <site url="http://download.eclipse.org/oomph/updates/milestone/latest" selected="true" name="Oomph Latest Milestone"/>
+   <site url="http://download.oracle.com/otn_software/oepe/12.2.1.8/oxygen/repository/dependencies/" selected="true" name="Oracle Enterprise Pack for Eclipse 12.2.1.8 Dependencies"/>
+   <site url="http://download.eclipse.org/e4/snapshots/org.eclipse.e4.ui" selected="true" name="org.eclipse.e4.ui update site"/>
+   <site url="http://download.eclipse.org/releases/oxygen" selected="true" name="Oxygen"/>
+   <site url="http://download.eclipse.org/releases/oxygen/201804111000" selected="true" name="Oxygen"/>
+   <site url="http://subclipse.tigris.org/update_1.10.x" selected="true" name="Subclipse 1.10.x Update Site"/>
+   <site url="http://download.eclipse.org/eclipse/updates/4.7" selected="true" name="The Eclipse Project Updates"/>
+   <site url="http://download.eclipse.org/eclipse/updates/4.7/categoriesOxygen" selected="true" name="The Eclipse Project Updates"/>
+   <site url="http://download.eclipse.org/usssdk/updates" selected="true" name="User Storage All"/>
+   <site url="http://download.eclipse.org/oomph/uss/updates/latest" selected="true" name="User Storage Latest"/>
+   <site url="http://download.eclipse.org/mylyn/releases/3.23" selected="false" name=""/>
+   <site url="http://download.eclipse.org/releases/" selected="true" name=""/>
+   <site url="http://download.eclipse.org/technology/babel/babel_language_packs" selected="true" name=""/>
+   <site url="http://download.eclipse.org/technology/babel/update-site/R0.13.1/mars/" selected="true" name=""/>
+   <site url="http://download.eclipse.org/technology/epp/packages/oxygen/" selected="true" name=""/>
+   <site url="http://eclipse.tmatesoft.com/svnkit/1.8.x/" selected="false" name=""/>
+   <site url="http://www.eclipse.org/downloads/download.php?file=/technology/babel/babel_language_packs/R0.16.0/oxygen/BabelLanguagePack-eclipse-zh_4.7.0.v20180815042455.zip" selected="true" name=""/>
+</bookmarks>
